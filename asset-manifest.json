@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vatsalshukla10.github.io/csb-1mx9lj/static/css/main.ca674ab6.chunk.css",
+    "main.js": "https://vatsalshukla10.github.io/csb-1mx9lj/static/js/main.c9954609.chunk.js",
+    "main.js.map": "https://vatsalshukla10.github.io/csb-1mx9lj/static/js/main.c9954609.chunk.js.map",
+    "runtime-main.js": "https://vatsalshukla10.github.io/csb-1mx9lj/static/js/runtime-main.16c431b0.js",
+    "runtime-main.js.map": "https://vatsalshukla10.github.io/csb-1mx9lj/static/js/runtime-main.16c431b0.js.map",
+    "static/js/2.3f1f3575.chunk.js": "https://vatsalshukla10.github.io/csb-1mx9lj/static/js/2.3f1f3575.chunk.js",
+    "static/js/2.3f1f3575.chunk.js.map": "https://vatsalshukla10.github.io/csb-1mx9lj/static/js/2.3f1f3575.chunk.js.map",
+    "index.html": "https://vatsalshukla10.github.io/csb-1mx9lj/index.html",
+    "static/css/main.ca674ab6.chunk.css.map": "https://vatsalshukla10.github.io/csb-1mx9lj/static/css/main.ca674ab6.chunk.css.map",
+    "static/js/2.3f1f3575.chunk.js.LICENSE.txt": "https://vatsalshukla10.github.io/csb-1mx9lj/static/js/2.3f1f3575.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16c431b0.js",
+    "static/js/2.3f1f3575.chunk.js",
+    "static/css/main.ca674ab6.chunk.css",
+    "static/js/main.c9954609.chunk.js"
+  ]
+}
